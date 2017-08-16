@@ -13,3 +13,9 @@ npm install
 # Run the bot
 npm start
 ```
+
+rough draft of setup:
+1. deploy this repository on a heroku instance.
+2. install the githup app on the repository.
+3. configure bot (installation id), initialize set up. set password for the bot interface
+
