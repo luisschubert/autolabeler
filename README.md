@@ -8,6 +8,7 @@ Additionally CLA status is determined using information from `cla.json` and `Nee
 
 ## Github App Setup
 
+
 Every deployment will need an [App](https://developer.github.com/apps/).
 
 1. [Create a new GitHub App](https://github.com/settings/apps/new) with:
@@ -103,3 +104,4 @@ On success the bot will respond with:
 [Probot Deployment Guide](https://github.com/probot/probot/blob/master/docs/deployment.md) to aide with deployment of bot and setup of Github App.
 
 [Probot Autolabeler](https://github.com/probot/autolabeler/) repository was used as a starting point to building a new plugin, although the bot turned out to be its own standalone bot and not a plugin for probot.
+
